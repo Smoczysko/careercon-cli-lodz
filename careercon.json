@@ -1,0 +1,8 @@
+{
+  "commands": [{
+    "name": "lodz",
+    "alias": "lo",
+    "description": "Shows information about Lodz",
+    "action": "cli/lodz.js"
+  }]
+}
